@@ -53,3 +53,13 @@ input [type=image] {
 div {
 	padding: 30px;
 }
+
+ul.items {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	display: inline-block;
+
+}
+
+
